@@ -2,7 +2,7 @@
 class Board:
     #These are numbers and snake on that numbers
     snake = {
-            8: 4, 
+            8: 9, 
             18: 1,
             26: 10,
             39: 5,
